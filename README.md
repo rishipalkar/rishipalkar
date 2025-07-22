@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hrishikesh Palkar</h1>
-<h3 align="center">### Hi there 👋 I'm Hrishikesh Palkar A B.Tech student passionate about solving problems with code, exploring full-stack web development,and blending tech with creativity 🚀ps i love to help people with tech</h3>
+<h1 align="center">Hey there! 👋, I'm Hrishikesh Palkar</h1>
+<h3 align="center">### Im a B.Tech student passionate about solving problems with code, exploring full-stack web development,and blending tech with creativity 🚀ps i love to help people with tech<:)/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishipalkar&label=Profile%20views&color=0e75b6&style=flat" alt="rishipalkar" /> </p>
 
